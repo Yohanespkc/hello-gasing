@@ -18,3 +18,10 @@ def pecah(a, b):
     return a + 2 b
 
 print("9 + 2.2 =", pecah(9, 2))
+
+def kurang(a, b):
+    return a - b
+
+print("10 - 3 =", kurang(10, 3))
+
+
