@@ -25,3 +25,5 @@ def kurang(a, b):
 print("10 - 3 =", kurang(10, 3))
 
 Selamat datang di kantor
+
+saya suka ini
