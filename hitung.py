@@ -1,4 +1,5 @@
 
+
 def tambah(a, b):
     return a + b
 
@@ -13,3 +14,7 @@ def bagi(a, b):
 
 print("9 : 2 =", bagi(9, 2))
 
+def pecah(a, b): 
+    return a + 2 b
+
+print("9 + 2.2 =", pecah(9, 2))
