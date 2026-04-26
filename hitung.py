@@ -24,6 +24,17 @@ def kurang(a, b):
 
 print("10 - 3 =", kurang(10, 3))
 
-Selamat datang di kantor
+def kalkulator(a, b, operasi):
+    if operasi == "tambah":
+        return a + b
+    elif operasi == "kali":
+        return a * b
+    elif operasi == "kurang":
+        return a - b
+    elif operasi == "bagi":
+        return a / b
+    else:
+        return "Operasi tidak dikenal"
 
-saya suka ini
+print("Kalkulator: 8 + 2 =", kalkulator(8, 2, "tambah"))
+print("Kalkulator: 8 * 2 =", kalkulator(8, 2, "kali"))
