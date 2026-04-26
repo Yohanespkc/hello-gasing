@@ -1,0 +1,23 @@
+# File sampah macOS
+.DS_Store
+._*
+
+# File lock Word/Excel saat dibuka
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# File backup editor
+*~
+*.swp
+*.bak
+
+# File rahasia (jangan pernah commit!)
+*.env
+secrets.txt
+token.txt
+
+# File Python (untuk masa depan)
+__pycache__/
+*.pyc
