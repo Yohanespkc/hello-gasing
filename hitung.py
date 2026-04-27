@@ -38,3 +38,4 @@ def kalkulator(a, b, operasi):
 
 print("Kalkulator: 8 + 2 =", kalkulator(8, 2, "tambah"))
 print("Kalkulator: 8 * 2 =", kalkulator(8, 2, "kali"))
+# Belajar Windsurf - Yohanes 2026
