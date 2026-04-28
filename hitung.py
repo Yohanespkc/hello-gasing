@@ -42,3 +42,4 @@ print("Kalkulator: 8 * 2 =", kalkulator(8, 2, "kali"))
 # Belajar kedua kalinya - Yohanes 2028
 # belajar lagi
 # Belajar Windsurf - Yohanes 2026
+# sekarang sudah lancar
