@@ -14,3 +14,12 @@ Sebuah guru di Lanny Jaya menyatakan bahwa penggunaan GASING telah memiliki damp
 It is worth noting that before utilizing GASING, the teacher stated that she found it challenging to effectively teach complex subjects. However, with the aid of AI, she has been able to leverage the support of GASING in teaching, and the results have been most impressive. The teacher's statement can be rephrased as follows:
 
 "Prior to incorporating GASING into our teaching practice, I must admit that I found it challenging to effectively convey complex subjects to my students. However, with the assistance of GASING, I have been able to enhance the teaching quality by leveraging the support provided by this AI-based tool. The results have been nothing short of remarkable, and I believe that GASING has the potential to significantly enhance the teaching experience for students in Papua."
+
+
+Sebuah guru di Lanny Jaya mencatat bahwa AI telah mempengaruhi kualitas pengajaran. Waktu yang dihabiskan dalam menyajikan materi yang kompleks telah menurun, sehingga kualitas pengajaran menjadi lebih baik. Sebagai contoh, seorang guru menyatakan bahwa sebelum menggunakan GASING, waktu yang dihabiskan dalam menyajikan materi yang kompleks telah mencapai 15 minit. Namun, setelah menggunakan GASING, waktu yang dihabiskan hanya sekitar 14 minit.
+| --- | --- |
+| 15 | 15 |
+| 17 | 17 |
+| 14 | 14 |
+| 73 | 73 |
+| 201 | 201 |

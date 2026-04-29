@@ -51,6 +51,15 @@ print("Kalkulator: 8 / 0 =", kalkulator(8, 0, "bagi"))
 # Project Kalkulator Sederhana - Yohanes 2026
 # satu dua tiga
 def kuadrat(x):
+    """
+    Fungsi menghitung kuadrat dari sebuah bilangan
+
+    Args:
+        x (int/float): Bilangan yang akan dikuadratkan
+
+    Returns:
+        int/float: Hasil x * x
+    """
     return x * x
 
 print("Kuadrat dari 5 =", kuadrat(5))
