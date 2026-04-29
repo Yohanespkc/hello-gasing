@@ -32,7 +32,7 @@ def kalkulator(a, b, operasi):
     elif operasi == "kali":
         return a * b
     elif operasi == "kurang":
-        return a - b
+        return a - b + " sudah selesai"
     elif operasi == "bagi":
         if b == 0:
             return "Error: Tidak bisa dibagi dengan nol"
