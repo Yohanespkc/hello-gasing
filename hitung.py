@@ -49,6 +49,7 @@ print("Kalkulator: 8 / 2 =", kalkulator(8, 2, "bagi"))
 print("Kalkulator: 8 pecah 2 =", kalkulator(8, 2, "pecah"))
 print("Kalkulator: 8 / 0 =", kalkulator(8, 0, "bagi"))
 # Project Kalkulator Sederhana - Yohanes 2026
+# satu dua tiga
 def kuadrat(x):
     return x * x
 
